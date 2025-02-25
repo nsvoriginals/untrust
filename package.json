@@ -1,5 +1,6 @@
 {
   "name": "untrust",
+  "type":"module",
   "private": true,
   "scripts": {
     "build": "turbo run build",
