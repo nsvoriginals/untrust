@@ -10,6 +10,6 @@ wss.on("connection",(wss)=>{
         })
     })
     ws.on("close",()=>{
-        console.log("server disconnected")
+        console.log("server disconnected successfully")
     })
 })
